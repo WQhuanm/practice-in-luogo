@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1010 [NOIP1998 普及组] 幂次方", "P1010 [NOIP1998 普及组] 幂次方\P1010 [NOIP1998 普及组] 幂次方.vcxproj", "{05AC8C3D-A0F7-44EB-B42C-4342AF43E894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05AC8C3D-A0F7-44EB-B42C-4342AF43E894}.Debug|x64.ActiveCfg = Debug|x64
+		{05AC8C3D-A0F7-44EB-B42C-4342AF43E894}.Debug|x64.Build.0 = Debug|x64
+		{05AC8C3D-A0F7-44EB-B42C-4342AF43E894}.Debug|x86.ActiveCfg = Debug|Win32
+		{05AC8C3D-A0F7-44EB-B42C-4342AF43E894}.Debug|x86.Build.0 = Debug|Win32
+		{05AC8C3D-A0F7-44EB-B42C-4342AF43E894}.Release|x64.ActiveCfg = Release|x64
+		{05AC8C3D-A0F7-44EB-B42C-4342AF43E894}.Release|x64.Build.0 = Release|x64
+		{05AC8C3D-A0F7-44EB-B42C-4342AF43E894}.Release|x86.ActiveCfg = Release|Win32
+		{05AC8C3D-A0F7-44EB-B42C-4342AF43E894}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BEE16CB-3EF1-413F-9966-BE5118420D16}
+	EndGlobalSection
+EndGlobal
