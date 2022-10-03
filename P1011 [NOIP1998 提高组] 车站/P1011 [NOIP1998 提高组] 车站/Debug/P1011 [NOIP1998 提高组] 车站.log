@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\VS文件\practice-in-luogo\P1011 [NOIP1998 提高组] 车站\P1011 [NOIP1998 提高组] 车站\源.cpp(25,26): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS文件\practice-in-luogo\P1011 [NOIP1998 提高组] 车站\P1011 [NOIP1998 提高组] 车站\源.cpp(31,8): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\VS文件\practice-in-luogo\P1011 [NOIP1998 提高组] 车站\P1011 [NOIP1998 提高组] 车站\源.cpp(35,13): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+  P1011 [NOIP1998 提高组] 车站.vcxproj -> D:\VS文件\practice-in-luogo\P1011 [NOIP1998 提高组] 车站\Debug\P1011 [NOIP1998 提高组] 车站.exe
