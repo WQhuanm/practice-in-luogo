@@ -1,0 +1,16 @@
+﻿  源.cpp
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(8,10): error C2065: “string”: 未声明的标识符
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(8,17): error C2146: 语法错误: 缺少“)”(在标识符“a”的前面)
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(8,30): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(8,30): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(13,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(13,8): error C2146: 语法错误: 缺少“;”(在标识符“arr”的前面)
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(16,30): error C2065: “cin”: 未声明的标识符
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(16,37): error C2065: “arr”: 未声明的标识符
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(17,7): error C2065: “arr”: 未声明的标识符
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(17,16): error C2065: “arr”: 未声明的标识符
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(17,2): error C2672: “std::sort”: 未找到匹配的重载函数
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(17,32): error C2780: “void std::sort(const _RanIt,const _RanIt,_Pr)”: 应输入 3 个参数，却提供了 2 个
+D:\VS\VC\Tools\MSVC\14.29.30133\include\algorithm(7076): message : 参见“std::sort”的声明
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(20,30): error C2065: “cout”: 未声明的标识符
+D:\VS文件\practice-in-luogo\P1012 [NOIP1998 提高组] 拼数\P1012 [NOIP1998 提高组] 拼数\源.cpp(20,38): error C2065: “arr”: 未声明的标识符
