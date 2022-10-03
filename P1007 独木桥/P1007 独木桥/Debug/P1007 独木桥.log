@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\VS文件\practice-in-luogo\P1007 独木桥\P1007 独木桥\源.cpp(9,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VS文件\practice-in-luogo\P1007 独木桥\P1007 独木桥\源.cpp(9,48): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  P1007 独木桥.vcxproj -> D:\VS文件\practice-in-luogo\P1007 独木桥\Debug\P1007 独木桥.exe
